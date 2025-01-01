@@ -8,5 +8,5 @@ merge sort
 heap sort
 quick sort
 
-tech stacks used :- React, Javascript, node.js, Html/Tailwindcss
+tech stacks used :- React.js, Javascript, node.js, Html/Tailwindcss
 C++
